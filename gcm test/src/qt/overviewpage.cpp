@@ -103,7 +103,7 @@ OverviewPage::OverviewPage(QWidget *parent) :
 {
     ui->setupUi(this);
     // load daily tips
-    ui->webView->load(QUrl("https://www.gocoinpro.com/walletupdates/dailytips.php"));
+    ui->webView->load(QUrl("https://www.gocoinme.io/walletupdates/dailytips.php"));
 
     // Recent transactions
     ui->listTransactions->setItemDelegate(txdelegate);
