@@ -1,41 +1,41 @@
-﻿# GoCoinMe Release 2018
+﻿# <b>GoCoinMe Release 2018</b><br>
+<br>
+GoCoinMe is the world's fundraising platform.<br>
+<br>
+We set out on a mission to open up fundraising to people all around the globe.  We are tired of seeing human beings around the globe lose, or not be able to fund a business, or showcase their value to the world.<br>
+<br>
+The restrictive economy of yesterday is no more.  GoCoinMe is an ecosystem by and for the people.<br>
+<br>
+It will enable anyone around the world to raise funds with as much or as little privacy or pseudonymity as they desire.  No longer do normal people have to stand in line at a bank to get money for a funeral, or an illness, or for that matter a dream or business.<br>
+<br>
+We are a humanitarian and business organization turbocharged by *blockchain technology* and primed for the future.  Our service is available to anyone with a need to raise money for any cause.  <br>
+<br>
+We have our own "Bill of Rights" as a service.<br>
+<br>
+------------------------------------------------------------------------
+<br>
+GoCoinMe Bill of Rights:<br>
+<br>
+-The freedom to raise funds for whatever cause is deemed necessary.<br>
+-The ability to showcase a human need and let the people determine what your cause is worth, in a discreet manner, if necessary.<br>
+-The transcendence of a classist, oppressive economy dead-set on installing global poverty.<br>
+-The right to ownership over your private keys and your funds.<br>
+-The belief that decentralization is better than centralization, and the capability to provide you with decentralized services.<br>
+-Our service will not censor you.  We are a human service and we do not abide by the banking-corporate-military-industrial paradigm.<br>
+<br>
+------------------------------------------------------------------------
+Service terms:<br><br>
 
-GoCoinMe is the world's fundraising platform.
-
-We set out on a mission to open up fundraising to people all around the globe.  We are tired of seeing human beings around the globe lose, or not be able to fund a business, or showcase their value to the world.
-
-The restrictive economy of yesterday is no more.  GoCoinMe is an ecosystem by and for the people.
-
-It will enable anyone around the world to raise funds with as much or as little privacy or pseudonymity as they desire.  No longer do normal people have to stand in line at a bank to get money for a funeral, or an illness, or for that matter a dream or business.
-
-We are a humanitarian and business organization turbocharged by *blockchain technology* and primed for the future.  Our service is available to anyone with a need to raise money for any cause.  
-
-We have our own "Bill of Rights" as a service.
+Our built-in service mechanism to combat financial fraud or other crimes will be as follows. Users should not donate money to a cause they do not know or trust.  Do not accept promises at face value.  The blockchain enables pseudonymity, and sometimes anonymity, and any donation should be considered money that will be gone forever with nothing in return.  Our hope in this innovation is that law-abiding, honest people in free economies will choose to spread their message publicly.  Similarly, it does not restrict privacy.  Our users may choose to use pseudonyms but should understand the implications that will have on fundraising.<br><br>
 
 ------------------------------------------------------------------------
+<b>ROADMAP</b>
 
-GoCoinMe Bill of Rights:
+This year we will unleash our platform and change the digital ecosystem forever.<br><br>
 
--The freedom to raise funds for whatever cause is deemed necessary.
--The ability to showcase a human need and let the people determine what your cause is worth, in a discreet manner, if necessary.
--The transcendence of a classist, oppressive economy dead-set on installing global poverty.
--The right to ownership over your private keys and your funds.
--The belief that decentralization is better than centralization, and the capability to provide you with decentralized services.
--Our service will not censor you.  We are a human service and we do not abide by the banking-corporate-military-industrial paradigm.
+No longer do we live in a world where all the power to fundraise is monopolized by the banks and financial elite.<br><br>
 
-------------------------------------------------------------------------
-Service terms:
-
-Our built-in service mechanism to combat financial fraud or other crimes will be as follows. Users should not donate money to a cause they do not know or trust.  Do not accept promises at face value.  The blockchain enables pseudonymity, and sometimes anonymity, and any donation should be considered money that will be gone forever with nothing in return.  Our hope in this innovation is that law-abiding, honest people in free economies will choose to spread their message publicly.  Similarly, it
-
-------------------------------------------------------------------------
-ROADMAP
-
-This year we will unleash our platform and change the digital ecosystem forever.
-
-No longer do we live in a world where all the power to fundraise is monopolized by the banks and financial elite.
-
-This year we release GO COIN and move forward with a global revolution.
+This year we release GO COIN and move forward with a global revolution.<br><br>
 
 <br>
 Algorithm 	Scrypt<br>
