@@ -2317,7 +2317,7 @@ bool ProcessBlock(CNode* pfrom, CBlock* pblock)
             setStakeSeenOrphan.erase(pblockOrphan->GetProofOfStake());
             delete pblockOrphan;
         }
-        mapOrphanBlocksByPrev.erase(hashPrev);10
+        mapOrphanBlocksByPrev.erase(hashPrev);
     }
 
     printf("ProcessBlock: ACCEPTED\n");
