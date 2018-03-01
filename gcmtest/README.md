@@ -11,10 +11,9 @@ It will enable anyone around the world to raise funds with as much or as little 
 We are a humanitarian and business organization turbocharged by *blockchain technology* and primed for the future.  Our service is available to anyone with a need to raise money for any cause.  <br>
 <br>
 We have our own "Bill of Rights" as a service.<br>
-<br>
+
 ------------------------------------------------------------------------
-<br>
-GoCoinMe Bill of Rights:<br>
+<b>GOCOINME BILL OF RIGHTS</b>
 <br>
 -The freedom to raise funds for whatever cause is deemed necessary.<br>
 -The ability to showcase a human need and let the people determine what your cause is worth, in a discreet manner, if necessary.<br>
@@ -22,9 +21,9 @@ GoCoinMe Bill of Rights:<br>
 -The right to ownership over your private keys and your funds.<br>
 -The belief that decentralization is better than centralization, and the capability to provide you with decentralized services.<br>
 -Our service will not censor you.  We are a human service and we do not abide by the banking-corporate-military-industrial paradigm.<br>
-<br>
+
 ------------------------------------------------------------------------
-Service terms:<br><br>
+<b>SERVICE TERMS</b>
 
 Our built-in service mechanism to combat financial fraud or other crimes will be as follows. Users should not donate money to a cause they do not know or trust.  Do not accept promises at face value.  The blockchain enables pseudonymity, and sometimes anonymity, and any donation should be considered money that will be gone forever with nothing in return.  Our hope in this innovation is that law-abiding, honest people in free economies will choose to spread their message publicly.  Similarly, it does not restrict privacy.  Our users may choose to use pseudonyms but should understand the implications that will have on fundraising.<br><br>
 
