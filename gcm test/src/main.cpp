@@ -2532,9 +2532,10 @@ bool LoadBlockIndex(bool fAllowNew)
         //    CTxOut(empty)
         //  vMerkleTree: 12630d16a9
 
-        const char* pszTimestamp = "A new epoch for global fundraising";
+        const char* pszTimestamp = fTestNet ? "A new epoch for global fundraising" : "08795136517445238056987515653326978746565045253647784699110785997841012011001784";
         CTransaction txNew;
-        txNew.nTime = 1519846912;
+        txNew.nVersion = 1;
+        txNew.nTime = 1494587326;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
         txNew.vin[0].scriptSig = CScript() << 0 << CBigNum(42) << vector<unsigned char>((const unsigned char*)pszTimestamp, (const unsigned char*)pszTimestamp + strlen(pszTimestamp));
@@ -2547,7 +2548,7 @@ bool LoadBlockIndex(bool fAllowNew)
         block.nVersion = 1;
         block.nTime    = 1519846912;
         block.nBits    = bnProofOfWorkLimit.GetCompact();
-        block.nNonce   = 2695169964;
+        block.nNonce   = 1496662882;
 
         if (false  && (block.GetHash() != hashGenesisBlock)) {
 
