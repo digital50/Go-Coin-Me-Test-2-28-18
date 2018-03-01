@@ -2666,8 +2666,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 10479 or testnet: 20479)</source>
-        <translation>Escoltar connexions en &lt;port&gt; (per defecte: 10479 o testnet: 20479)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 10236 or testnet: 20236)</source>
+        <translation>Escoltar connexions en &lt;port&gt; (per defecte: 10236 o testnet: 20236)</translation>
     </message>
     <message>
         <location line="+1"/>

@@ -2674,8 +2674,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 10479 or testnet: 20479)</source>
-        <translation>&lt;port&gt; で 接続をリスン (デフォルト: 10479かtestnet は 20479)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 10236 or testnet: 20236)</source>
+        <translation>&lt;port&gt; で 接続をリスン (デフォルト: 10236かtestnet は 20236)</translation>
     </message>
     <message>
         <location line="+1"/>

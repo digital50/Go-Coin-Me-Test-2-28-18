@@ -2662,8 +2662,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 10479 or testnet: 20479)</source>
-        <translation>Принимать входящие подключения на &lt;port&gt; (по умолчанию: 10479 или 20479 в тестовой сети)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 10236 or testnet: 20236)</source>
+        <translation>Принимать входящие подключения на &lt;port&gt; (по умолчанию: 10236 или 20236 в тестовой сети)</translation>
     </message>
     <message>
         <location line="+1"/>

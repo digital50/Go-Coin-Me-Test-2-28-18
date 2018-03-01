@@ -2674,8 +2674,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 10479 or testnet: 20479)</source>
-        <translation>Počúvať pripojenia na &lt;port&gt; (predvolené: 10479 alebo testovacia sieť: 20479)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 10236 or testnet: 20236)</source>
+        <translation>Počúvať pripojenia na &lt;port&gt; (predvolené: 10236 alebo testovacia sieť: 20236)</translation>
     </message>
     <message>
         <location line="+1"/>

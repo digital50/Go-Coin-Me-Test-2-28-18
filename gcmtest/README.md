@@ -5,7 +5,7 @@ Type 	PoW/PoS<br>
 Coin abbreviation 	420G<br>
 Address letter 	Q<br>
 RPC port 	10480<br>
-P2P port 	10479<br>
+P2P port 	10236<br>
 Block reward 	100 coins<br>
 Total coin supply 	NO LIMIT WITH 25% ANNUAL INTREST<br><br>
 <br>

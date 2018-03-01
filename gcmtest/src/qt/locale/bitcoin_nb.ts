@@ -2661,7 +2661,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 10479 or testnet: 20479)</source>
+        <source>Listen for connections on &lt;port&gt; (default: 10236 or testnet: 20236)</source>
         <translation type="unfinished"/>
     </message>
     <message>

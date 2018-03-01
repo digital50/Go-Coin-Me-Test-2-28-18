@@ -2317,7 +2317,7 @@ bool ProcessBlock(CNode* pfrom, CBlock* pblock)
             setStakeSeenOrphan.erase(pblockOrphan->GetProofOfStake());
             delete pblockOrphan;
         }
-        mapOrphanBlocksByPrev.erase(hashPrev);
+        mapOrphanBlocksByPrev.erase(hashPrev);10
     }
 
     printf("ProcessBlock: ACCEPTED\n");
@@ -2574,7 +2574,7 @@ bool LoadBlockIndex(bool fAllowNew)
         printf("block.nTime = %u \n", block.nTime);
         printf("block.nNonce = %u \n", block.nNonce);
 
-        assert(block.hashMerkleRoot == uint256("0x7e61f30bf2e21325e99609a156c67ebc7dd32a75aaced616f27a465c3730c2b2"));
+        assert(block.hashMerkleRoot == uint256("0x51a0e874040f31a36403231cf979cf8af5d37164904a078388e54bcd"));
         assert(block.GetHash() == (!fTestNet ? hashGenesisBlock : hashGenesisBlockTestNet));
         assert(block.CheckBlock());
 
